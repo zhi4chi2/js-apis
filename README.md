@@ -1,3 +1,6 @@
-# My Awesome Book
+# Reference
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+- http://es6.ruanyifeng.com/
+- JavaScript 权威指南（第 6 版）
+- jquery 2.1.1
+- Angular 4.0
