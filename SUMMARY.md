@@ -3,20 +3,20 @@
 
 ## Reference
 
-- [ES6](/ES6/README.md)
-  - [ECMAScript 6 简介](/ES6/1.md)
-- [最佳实践](/BestPractice/README.md)
+- [ES6](/es6/README.md)
+  - [ECMAScript 6 简介](/es6/1.md)
+- [最佳实践](/best-practice/README.md)
 
 
 ## Methods
 
 - Core
-  - [Array](/API/Core/Array.md)
-  - [Date](/API/Core/Date.md)
-  - [Global](/API/Core/Global.md)
-  - [Number](/API/Core/Number.md)
-  - [Object](/API/Core/Object.md)
-  - [String](/API/Core/String.md)
-- [Window](/API/Window/README.md)
-- [jQuery](/API/jQuery/README.md)
-- [Angular](/API/Angular/README.md)
+  - [Array](/api/core/Array.md)
+  - [Date](/api/core/Date.md)
+  - [Global](/api/core/Global.md)
+  - [Number](/api/core/Number.md)
+  - [Object](/api/core/Object.md)
+  - [String](/api/core/String.md)
+- [Window](/api/Window/README.md)
+- [jQuery](/api/jquery/README.md)
+- [Angular](/api/angular/README.md)
